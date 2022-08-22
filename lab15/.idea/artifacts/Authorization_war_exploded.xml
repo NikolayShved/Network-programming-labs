@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Authorization:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Authorization_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Authorization/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Authorization" />
+          <element id="dir-copy" path="C:/Program Files/Java/apache-tomcat-8.5.58" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
