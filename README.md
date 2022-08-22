@@ -1,2 +1,2 @@
-# Working-with-Collections
-Working with java collections
+# Network programming labs
+Java Network Programming Labs
